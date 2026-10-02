@@ -13,6 +13,6 @@ I m a web developer I love to design and create <br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=azeemshiklagar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=azeemshiklagar&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Azexm&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
